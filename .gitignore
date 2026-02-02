@@ -10,6 +10,9 @@
 !.yarn/releases
 !.yarn/versions
 
+.prettierrc.json
+.prettierignore
+
 # testing
 /coverage
 
