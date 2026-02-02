@@ -1,5 +1,10 @@
+*
+
+!app/
+!app/**
+
 node_modules
 .next
 .amplify
 .vercel
-/build
+build
